@@ -1,6 +1,6 @@
 # NekoTracker
 Tracker for productivity.
 
-#License
+# License
 Free (? Open source.
 [Add a licence]
